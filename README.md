@@ -8,11 +8,8 @@ Source from [Getting Started with React Router](https://egghead.io/courses/getti
 - `npm start`
 - Open browser to http://localhost:8000
 
-## License
+---
 
-- [MIT License](https://opensource.org/licenses/MIT)
-
-## Contact
-
-- Email: sysuhuangye@gmail.com
-- Personal website: https://yehuang.me
+> [yehuang.me](https://yehuang.me) &nbsp;&middot;&nbsp;
+> GitHub [@crabcanon](https://github.com/crabcanon) &nbsp;&middot;&nbsp;
+> Gmail [@sysuhuangye](<mailto:sysuhuangye@gmail.com>)
